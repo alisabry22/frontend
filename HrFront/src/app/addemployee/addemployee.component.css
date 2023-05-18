@@ -1,0 +1,31 @@
+
+.card {
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px 5px rgba(0, 0, 0, 0.3);
+  width: 700px;
+  height: 500px;
+  margin: auto;
+  background-color: #ffffff;
+	padding-bottom:10px;
+	padding-right:10px;
+	padding-left:20px;
+  align-content: center;
+
+}
+.card h1{
+  text-align: center;
+}
+
+
+input[type="submit"]{
+
+  border: none;
+  width:120px;
+    border-radius: 10px;
+   background: #084cdf;
+  padding: 10px 20px;
+  cursor: pointer;
+  align-content: center;
+  color: #fff;
+  text-align: center;
+  }
